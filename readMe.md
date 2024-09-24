@@ -54,6 +54,7 @@ The server will run on port 3000 (or the port specified in the environment varia
    }
     ```
 **Response:** Returns the created user object if successful, or an error message if validation fails.
+
 3. **Get User by ID**  
    **Endpoint:** `GET /api/users/:id`  
    **Description:** Retrieves a user by their ID.  
